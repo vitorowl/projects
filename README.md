@@ -14,4 +14,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## testresr 
 
 
-* comando git push 
+* comando git push
+* comando git pull
